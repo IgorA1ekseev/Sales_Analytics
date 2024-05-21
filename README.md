@@ -21,4 +21,4 @@
 Проведен EDA, на основании его были внесены корректировки, данные были подготовлены к дальнейшей работе. Проведены необходимые расчеты согласно задачам, созданы графики и выведена детализация по менеджерам.
 
 ## Результат:
-По итогу проекта был создан [дэшборд](https://drive.google.com/file/d/11PPy7JHFhJRltmuQxkJK1tkPLWAQCJ7b/view?usp=drive_link) для удобной аналитики продаж согласно требованиям.
+По итогу проекта был создан [дэшборд](https://drive.google.com/file/d/11PPy7JHFhJRltmuQxkJK1tkPLWAQCJ7b/view?usp=drive_link) для удобной аналитики продаж согласно требованиям, c которым можно ознакомится по [ссылке](https://drive.google.com/file/d/1V7iqH6BRosvJ0rEjXyOwpfJr69JlGuZP/view?usp=drive_link) или в репозитории.
